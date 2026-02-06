@@ -1,3 +1,19 @@
+# Tic-Tac-Toe with Pygame
+
+**Description:**  
+A simple implementation of the classic **Tic-Tac-Toe** game written in **Python** using the **Pygame** library.
+
+**Installation:**
+1. Install **Python** and **Pygame**.
+2. Download or clone this repository.
+3. Run the `main.py` file.
+
+**How to Play:**
+- The game is designed for **two players**, taking turns.
+- The rules follow the classic Tic-Tac-Toe game.
+
+---
+
 # Крестики-нолики на Pygame
 
 **Описание:**
